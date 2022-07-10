@@ -1,0 +1,6 @@
+bill=int(input("enter the total bill \n"))
+tip=int(input("enter how much tip u want to give \n"))
+person=int(input("enter number of person among whom bill has to be divided \n"))
+x=bill+tip
+perperson=round(x/person,2)
+print("every person should pay \n",perperson)
