@@ -39,3 +39,5 @@ if choice1 == "left":
     print("You get attacked by an angry trout. Game Over.")
 else:
   print("You fell into a hole. Game Over.")
+#https://replit.com/@PallavitSaxena/RawLikelyEnvironments#main.py#
+#link to the working code of the above game#
